@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="https://sajya.github.io/img/laravel-sajya.svg" height="64px;" alt="Laravel JSON RPC">
+    <img src="https://sajya.github.io/img/laravel-sajya.svg" height="64px;" alt="Laravel JSON RPC" style="
+    max-width: 100%;
+    background: rgb(255 255 255 / 95%);
+    padding: 1em;
+    border-radius: 0.8em;">
 </p>
 
 
